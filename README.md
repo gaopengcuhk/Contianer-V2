@@ -3,5 +3,5 @@
 
 Comparison with popular backbone :
 
-![Container](container.png)
+![Container](container_v2_v1.pdf)
 
